@@ -1,7 +1,7 @@
 (**
   Basic Cypher using Tail Recursion
   =================================
-  The code in basiccypher.ml rewritten to use tail recursion. UNFINISHED
+  The code in basiccypher.ml rewritten to use tail recursion.
 *)
 
 let increment_letter (letter : char) (increment : int) = 
