@@ -1,9 +1,9 @@
 (**
-  Fibonacci
-  =========
-  Given a number, x, from the command line, the program will print out the xth Fibonacci number
+    Fibonacci
+    =========
+    Given a number, x, from the command line, the program will print out the xth Fibonacci number
 
-  References: https://cs3110.github.io/textbook/chapters/basics/exercises.html
+    References: https://cs3110.github.io/textbook/chapters/basics/exercises.html
 *)
 let x = int_of_string Sys.argv.(1)
 

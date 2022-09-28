@@ -1,7 +1,7 @@
 (**
-  Factorial
-  =========
-  Given a number, x, from the command line, the program will print out x!
+    Factorial
+    =========
+    Given a number, x, from the command line, the program will print out x!
 *)
 
 let x = int_of_string Sys.argv.(1)
