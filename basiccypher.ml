@@ -3,8 +3,10 @@
     ============ 
     Given a string consisting only of lowercase letters, word, and an integer, increment, from the command line, the program will increment each letter in word by increment. Note that after 'z', the program will wrap back to 'a'.
 
-    Examples: word = "aaa", increment = 1 --> "bbb" word = "xyz",
-    increment = 2 --> "zab" word = "abc", increment = -3 --> "xyz" 
+    Examples: 
+      word = "aaa", increment = 1 --> "bbb" 
+      word = "xyz", increment = 2 --> "zab" 
+      word = "abc", increment = -3 --> "xyz" 
 *)
 
 let increment_letter (letter : char) (increment : int) =
