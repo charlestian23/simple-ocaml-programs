@@ -1,6 +1,6 @@
 profile = conventional
 break-fun-decl = fit-or-vertical
 exp-grouping = preserve
-margin = 72
+margin = 100
 type-decl = sparse
 break-cases=toplevel
